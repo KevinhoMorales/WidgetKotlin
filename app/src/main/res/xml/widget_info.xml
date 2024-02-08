@@ -1,0 +1,7 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="294dp"
+    android:minHeight="72dp"
+    android:updatePeriodMillis="86400000"
+    android:previewImage="@drawable/wigdet_preview"
+    android:initialLayout="@layout/widget_layout"
+    android:configure="com.kevinhomorales.widgetkotlin.MainActivity" />
